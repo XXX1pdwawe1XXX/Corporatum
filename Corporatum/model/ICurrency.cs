@@ -1,5 +1,8 @@
 using System;
 
-interface Currency{
-    
+
+namespace ICurrency{
+    interface Currency{
+        
+    }
 }

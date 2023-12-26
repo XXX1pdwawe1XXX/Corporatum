@@ -1,5 +1,7 @@
 using System;
 
-interface Corporatum{
-    
+namespace ICorporatum{
+    interface Corporatum{
+       
+    }
 }
